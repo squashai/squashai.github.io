@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(a,t,n){"use strict";n.r(t);var e=function(){var a=this,t=a.$createElement,n=a._self._c||t;return n("v-container",{staticClass:"pa-0",attrs:{fluid:""}},[n("v-layout",[n("h1",[a._v("This is an about page")])])],1)},o=[],u=n("2877"),s=n("6544"),i=n.n(s),l=n("a523"),r=n("a722"),c={},p=Object(u["a"])(c,e,o,!1,null,null,null);p.options.__file="About.vue";t["default"]=p.exports;i()(p,{VContainer:l["a"],VLayout:r["a"]})}}]);
-//# sourceMappingURL=about.178e2d9f.js.map
